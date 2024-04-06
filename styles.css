@@ -1,0 +1,89 @@
+body{
+  color:#40514E;
+  margin:0;
+  text-align:center;
+  font-family:"merriweather",serif;
+}
+.sawaari{
+  font-size:6.625rem;
+  color:#2E8B57;
+  margin-top:50px;
+
+}
+.top{
+  background-color:#AFEEEE;
+  padding-top: 400px;
+}
+.auto{
+  position:absolute;
+  left:220px;
+  top:50px;
+}
+h1{
+  position: absolute;
+  left:570px;
+  top:200px;
+}
+.wel{
+  color: #FFD700;
+  font-size: 3.5rem;
+  margin-bottom: 0px;
+}
+.service{
+  font-size: 4rem;
+  margin-top: 0px;
+}
+.middle{
+  background-color: #FFF8DC;
+}
+.now{
+  color:#228B22;
+  font-size: 2rem;
+}
+.link{
+  color:black;
+  font-size: 1.5rem;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family:"montserrat",sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.bottom{
+  background-color: #20B2AA;
+}
+.query{
+  margin-bottom: 5px;
+}
+.name{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.number{
+  margin-top: 0;
+}
+.info{
+  position:relative;
+  right:400px;
+}
